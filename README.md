@@ -1,4 +1,5 @@
 file ipynb dùng để train model và sau đó lưu vào một file .h5 đươc lưu trong mục Testing_Program
+
 phiên bản này thực chất là sử dụng thư viện Keras để build model nên chỉ cần hiểu một chút về cấu trúc của một mô hình CNN, chưa cần phải quá am sâu về các công thức toán và thuật toán nên khá dễ tiếp cận cho người mới.
 
 1. Train model
