@@ -1,7 +1,5 @@
 file ipynb dùng để train model và sau đó lưu vào một file .h5 đươc lưu trong mục Testing_Program
 
-phiên bản này thực chất là sử dụng thư viện Keras để build model nên chỉ cần hiểu một chút về cấu trúc của một mô hình CNN, chưa cần phải quá am sâu về các công thức toán và thuật toán nên khá dễ tiếp cận cho người mới.
-
 1. Train model
    - sử dụng file ipynb up lên colab để rồi chạy tuần tự các câu lệnh là xong.
    - chú ý cho người mới: data training ở trên kaggle rất nhiều, đây là một trong những link bạn có thể tham khảo và tải về https://www.kaggle.com/datasets/tongpython/cat-and-dog
